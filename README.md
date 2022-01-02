@@ -1,5 +1,7 @@
 # sie_banxico #
 
+[![PyPi Version](https://img.shields.io/badge/Pypi-0.0.1-blue)](https://pypi.org/project/sie-banxico/)
+
 A python class for the Economic Information System (SIE) [API of Banco de México](https://www.banxico.org.mx/SieAPIRest/service/v1/?locale=en).
 
 Args:
