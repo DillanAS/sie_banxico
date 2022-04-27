@@ -24,7 +24,7 @@ pip install sie_banxico
 Querying Monetary Aggregates M1 (SF311408) and M2 (SF311418) Data
 
 ```python
- >>> from api_banxico import SIEBanxico
+ >>> from sie_banxico import SIEBanxico
  >>> api = SIEBanxico(token = token, id_series = ['SF311408' ,'SF311418'], language = 'en')
 ```
 
